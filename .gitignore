@@ -1,0 +1,4 @@
+*.csv
+*.cfg
+.venv
+.DS_Store
