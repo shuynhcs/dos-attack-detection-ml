@@ -1,1 +1,1 @@
-Prototypes for detecting DoS attack traffic using Support Vector Machine and Logistic Regression models supporting research work [Denial-of-Service (DoS) Attack Detection Using Edge Machine Learning (ICMLA'23)](https://ieeexplore.ieee.org/document/10459903)
+Support Vector Machine and Logistic Regression models for detecting DoS attack network traffic in support of research work [Denial-of-Service (DoS) Attack Detection Using Edge Machine Learning (ICMLA'23)](https://ieeexplore.ieee.org/document/10459903)
